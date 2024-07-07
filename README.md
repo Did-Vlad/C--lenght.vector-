@@ -1,4 +1,5 @@
 C--lenght.vector-
+Practical №6
 #include <stdio.h>
 #include <math.h>
 
